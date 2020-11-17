@@ -2,8 +2,6 @@
 
 Flask API to predict daily Airbnb rates in Tokyo from property features.
 
-Deployed to: https://ds-unit4-bw-airbnb.herokuapp.com/
-
 ## Getting Started
 
 This section is dedicated to software developers that want to contribute to this API. You must have `pipenv` installed on your local machine to continue.
